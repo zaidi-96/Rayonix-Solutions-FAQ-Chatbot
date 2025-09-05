@@ -1,0 +1,49 @@
+{
+  "faqs": [
+    {
+      "keywords": ["service", "offer", "do", "what", "provide", "capabilities"],
+      "question": "What services do you offer?",
+      "answer": "We offer end-to-end software development services including custom web applications, mobile apps (iOS & Android), desktop software, and cloud solutions. We also provide UI/UX design and software consulting."
+    },
+    {
+      "keywords": ["cost", "price", "how much", "mobile app", "estimate"],
+      "question": "How much does a mobile app cost?",
+      "answer": "The cost of a mobile app can vary greatly depending on complexity, features, and platforms. A simple app might start from $10,000, while more complex projects can range from $50,000 to $100,000+. Would you like to schedule a free consultation for a more accurate estimate?"
+    },
+    {
+      "keywords": ["start", "begin", "get started", "project", "how to"],
+      "question": "How do I get started with a project?",
+      "answer": "Getting started is easy! 1) We schedule a call to discuss your idea. 2) We provide a preliminary analysis and estimate. 3) We draft a project plan. 4) You approve, and we begin development! Would you like to schedule that first call?"
+    },
+    {
+      "keywords": ["web", "website", "web application"],
+      "question": "Do you develop websites?",
+      "answer": "Absolutely. We develop everything from simple brochure websites to complex, database-driven web applications and e-commerce platforms."
+    },
+    {
+      "keywords": ["technology", "stack", "use", "what technology"],
+      "question": "What technologies do you use?",
+      "answer": "We use a modern and robust tech stack. For web: Python/Django, JavaScript/React, Node.js. For mobile: Native (Swift, Kotlin) and Cross-platform (Flutter). We choose the best tool for your specific project needs."
+    },
+    {
+      "keywords": ["timeline", "long", "duration", "how long", "time"],
+      "question": "How long does a typical project take?",
+      "answer": "Timelines depend on project scope. A simple website might take 4-6 weeks. A medium-complexity mobile app could take 3-6 months. We provide a detailed timeline after the initial project analysis."
+    },
+    {
+      "keywords": ["hello", "hi", "hey", "greetings"],
+      "question": "Greeting",
+      "answer": "Hello! Welcome to Rayonix Solutions. How can I assist you today?"
+    },
+    {
+      "keywords": ["thank", "thanks", "appreciate"],
+      "question": "Thanks",
+      "answer": "You're welcome! Is there anything else I can help you with?"
+    },
+    {
+      "keywords": ["bye", "goodbye", "exit", "quit", "see you"],
+      "question": "Exit",
+      "answer": "Thank you for chatting! Have a great day. Feel free to reach out again if you have more questions."
+    }
+  ]
+}
